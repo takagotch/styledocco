@@ -1,6 +1,6 @@
 ### styledocco
 ---
-https://devdocs.io/
+http://jacobrask.github.io/styledocco/
 
 ```
 ```
