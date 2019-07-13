@@ -16,7 +16,7 @@ http://jacobrask.github.io/styledocco/
 
 ```
 
-```
+```sh
 styledocco -n "My Project" css
 styledocco -n "My Project" -o mydocs -s mydocs --preprocessor "scss --compass" styles
 ```
@@ -254,7 +254,4 @@ small{
   font-size: 85%;
   opacity: .9;
 }
-
-
-
 ```
